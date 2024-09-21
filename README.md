@@ -1,0 +1,27 @@
+# --------- Mr.INK ----------
+- Echo por: Mguel Angel Ruvalcaba Valverde
+
+#Actividad de clase: Detecion de par y impar
+print(" ")
+print("Ruvalcaba Valverde Miguel Angel")
+print("--------------------------------------")
+n = 4
+#primero tendremos que elegir un valor y usaremos imput =)
+N1 = int(input("ingresa un numero: "))
+#comensamos con la cadena
+if N1 % 2 == 1:#qui use un modulo (%) y si el resultado es 1 es un numero impar.
+    print("es un numero impar:",N1)
+elif N1 == 0:
+    print("es cero muahahhahaha:",N1)
+elif N1 % 2 !=1:
+    print("es un numero par:",N1)
+else:
+    print("---ERROR---")# no sirve mi super chido mensaje de error =(
+print("--------------------------------------")
+print("Resultado: el codigo desidio que el numero era par, impar o 0, amenos que allas puesto una letra.")#
+print(" ")
+#Nota que es un modulo (%)?
+#El módulo es una operación que consiste en la raíz cuadrada de la suma de los varios componentes que definen una cantidad vectorial.
+
+![image](https://github.com/user-attachments/assets/38ae44a2-6857-41ca-8a24-90d42b7e5ae7)
+
